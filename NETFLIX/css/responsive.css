@@ -1,0 +1,9 @@
+@media  (min-width:1024px) {
+    /* .imageContainer{
+        max-width: 500px;
+    } */
+    .text2 {
+        text-align: left;
+        padding: 0 6rem;
+    }
+}
